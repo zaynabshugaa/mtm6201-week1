@@ -1,11 +1,16 @@
-body 
-    {background-color:darkslategrey;}
+body {
+    background-color:darkslategrey;
+    font-size:large;
+}
 
-    body
-    {
+    body{
       margin-top: 3px;
       margin-left: 4rem;
       margin-right: 4rem;
+    }
+
+    h1 {
+        background-color: lightcyan;
     }
 
 .responsive {
@@ -14,6 +19,23 @@ body
     height: auto;
 }
 
-ul { 
+
+dl { 
     list-style-type: none;
+    background-color: lightcyan;
+}
+
+dt {
+    font-weight: bold;
+}
+
+dd {
+    margin-left: 0px;
+}
+
+
+
+img {
+    float: left;
+    padding: 0 10px 0 0;
 }
