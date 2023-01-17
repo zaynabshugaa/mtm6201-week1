@@ -1,0 +1,19 @@
+body 
+    {background-color:darkslategrey;}
+
+    body
+    {
+      margin-top: 3px;
+      margin-left: 4rem;
+      margin-right: 4rem;
+    }
+
+.responsive {
+    width: 100%;
+    max-width: 150px;
+    height: auto;
+}
+
+ul { 
+    list-style-type: none;
+}
